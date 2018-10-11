@@ -27,6 +27,7 @@
 		"./vs/base/common/keybindingParser.ts",
 		"./vs/base/common/keyCodes.ts",
 		"./vs/base/common/lifecycle.ts",
+		"vs/base/common/map.ts",
 		"./vs/base/common/marshalling.ts",
 		"./vs/base/common/network.ts",
 		"./vs/base/common/numbers.ts",
